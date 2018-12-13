@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/alertl.png</file>
+        <file>img/battery0.png</file>
+        <file>img/battery1.png</file>
+        <file>img/battery2.png</file>
+        <file>img/battery3.png</file>
+        <file>img/battery4.png</file>
+        <file>img/battery5.png</file>
+        <file>img/btn_alert.png</file>
+        <file>img/btn_normal.png</file>
+        <file>img/img.qrc</file>
+        <file>img/logo_mm.png</file>
+        <file>img/logo_start.png</file>
+        <file>img/speaker_off.png</file>
+        <file>img/speaker_on.png</file>
+        <file>img/note.png</file>
+    </qresource>
+</RCC>
